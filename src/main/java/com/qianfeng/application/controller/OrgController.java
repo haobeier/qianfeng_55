@@ -127,7 +127,7 @@ public class OrgController extends BaseController {
     }
 
     /**
-     * 删除
+     * 删除sdasdaewdedaddfnhjejkfdhuhfejwkwndhnfjkenfdm,fnefnjfneiifniddsfdsfdfdsfdsfdsfdsfdsfdsfds
      */
     @RequestMapping("/deleteOrg")
     public void deleteOrg(long orgId,HttpServletResponse response){
